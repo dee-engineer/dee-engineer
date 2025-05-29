@@ -1,10 +1,45 @@
-- 👋 Hi, I’m @dee-engineer
-- 👀 I’m interested in Backend and Web Application Security...
-- 🌱 I’m currently building Java and Python Microservice Products...
-- 💞️ I’m looking to collaborate on Similar Products...
-- 📫 How to reach me ...
+# 👋 Hello, I’m Divine Chukwu (@dee-engineer)
 
-<!---
-dee-engineer/dee-engineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Passionate Software Engineer | Web Application Security Engineer
+
+---
+
+## 👨‍💻 About Me
+
+- 🔐 Focused on **Backend Development** and **Web Application Security**
+- 🧱 Building **scalable microservice products** using **Java** and **Python**
+- 🚀 Currently leading as the **CEO of Dechsoft**, where we build robust digital solutions
+- 🛠️ Enjoy working on secure, performant, and maintainable systems
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Microservice Architecture Projects  
+- Secure RESTful APIs & Backend Systems  
+- Cloud-Native Applications (Docker, Kubernetes, etc.)
+- Open Source Projects in Python, Java, or Go
+
+---
+
+## 📬 Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/divinechukwu)  
+- ✉️ Email: [chukwudivineify@gmail.com]  
+- 🌐 Portfolio: [https://dechsoft.com](https://dechsoft.com)
+
+---
+
+## 📌 Current Stack
+
+**Languages:** Python, Java, Go , Javascript/Typescript  
+**Frameworks:** Django, Spring Boot, FastAPI, Nextjs  
+**DevOps:** Docker, Kubernetes, GitHub Actions  
+**Databases:** PostgreSQL, MongoDB, Redis  
+**Cloud:** AWS, DigitalOcean, GCP
+
+---
+
+> 💡 “Security and scalability are not optional — they are foundational.”
+
+Thanks for visiting my profile! 🌟
