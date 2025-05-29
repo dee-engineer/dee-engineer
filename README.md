@@ -25,8 +25,8 @@
 ## 📬 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/divinechukwu)  
-- ✉️ Email: [chukwudivineify@gmail.com]  
-- 🌐 Portfolio: [https://dechsoft.com](https://dechsoft.com)
+- ✉️ Email: chukwudivineify@gmail.com  
+- 🌐 Portfolio: [Dechsoft](https://dechsoft.com)
 
 ---
 
